@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nathan/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.4/13ed9a042554afce8c8b38c53e9b6d6d9c10600e/gdx-1.6.4.jar" sourcepath="C:/Users/Nathan/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.4/cecef47b1a565819c3991ec13d967d685605c5c0/gdx-1.6.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nathan/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.6.4/171df06ca4699c6367dff7fa849e957fa342acd2/gdx-freetype-1.6.4.jar" sourcepath="C:/Users/Nathan/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.6.4/2427a5e7029231afe56090db7d8fdc1f40c5611b/gdx-freetype-1.6.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nathan/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.4/eb089b58828b842bbdd4f7cb48b54626924cfdd5/gdx-box2d-1.6.4.jar" sourcepath="C:/Users/Nathan/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.4/19afcb776ab1fc9fddb1011292266c53aebfc9e7/gdx-box2d-1.6.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nathan/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.4/3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd/box2dlights-1.4.jar" sourcepath="C:/Users/Nathan/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.4/57a1f15112328706c648a430bd19574118e2d8f4/box2dlights-1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nathan/.gradle/caches/modules-2/files-2.1/com.kotcrab.vis/vis-ui/0.8.1/7c374d8bdec72628ce692e20d066c28a7bfb691a/vis-ui-0.8.1.jar" sourcepath="C:/Users/Nathan/.gradle/caches/modules-2/files-2.1/com.kotcrab.vis/vis-ui/0.8.1/e7f82c1991d9803eab9ebda0e3f665c2ed2727c4/vis-ui-0.8.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
